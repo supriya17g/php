@@ -7,7 +7,7 @@
 <?php
 echo "Hello World!";
 echo "Hello from version1.1 UNNNATI for IBM GUYS ";
-iecho "S2I in openshift";
+echo "S2I in openshift";
 ?>
 
 </body>
