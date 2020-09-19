@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page for TECHMAHINDRA v4.1 FINAL FINAL HURRAY </h1>
+<h1>My first PHP page for NOKIAGUYS v4.1 FINAL FINAL HURRAY </h1>
 
 <?php
 echo "Hello World! from GIT";
