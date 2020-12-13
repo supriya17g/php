@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World! from GIT";
-echo "Revision12 ";
+echo "Revision1";
   
 ?>
 
